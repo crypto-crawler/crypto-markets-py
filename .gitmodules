@@ -1,0 +1,3 @@
+[submodule "crypto-markets-ffi"]
+	path = crypto-markets-ffi
+	url = git@github.com:soulmachine/crypto-markets-ffi.git

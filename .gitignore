@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+crypto_markets/_lowlevel.py
+crypto_markets/_lowlevel__ffi.py
+wheelhouse/
